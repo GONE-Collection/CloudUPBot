@@ -5,6 +5,8 @@
 
 ## License
 
+*Apache License*
+
 > `Aşağıdaki şartlar altında:`
 
 `-` **Açık kaynaklı kod paylaşıma açık değildir. Klonu oluşturan kişi & şahıslara gerekli işlemleri ugulamak için, İşlemler uygulanmaktadır.**
