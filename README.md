@@ -9,7 +9,7 @@
 
 > `Aşağıdaki şartlar altında:`
 
-`-` **Açık kaynaklı kod paylaşıma açık değildir. Klonu oluşturan kişi & şahıslara gerekli işlemleri ugulamak için, İşlemler uygulanmaktadır.**
+`-` **Açık kaynaklı kod paylaşıma açık değildir. Klonu oluşturan kişi & şahıslara gerekli işlemleri uygulamak için, İşlemler uygulanmaktadır.**
 
 
 **Daha fazla bilgi için:** [Buraya Tıkla](https://discord.gg/ja5PTUj).
